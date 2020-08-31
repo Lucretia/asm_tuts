@@ -8,7 +8,7 @@ _start:
 	b _loop
 
 _decrement:
-	subgt r0, r0, r1
+	subgt r0, r0, r1	@ if [r0] > [r1] (determined by the cmp in _loop) then sub.
 
 _loop:
 	cmp r0, r1
