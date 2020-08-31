@@ -4,6 +4,6 @@ This is where I have followed tutorials for assembly language in an attempt to g
 
 ## Tutorials followed
 
-* [Derek Banas](https://www.youtube.com/playlist?list=PLGLfVvz_LVvQu9IwUcpn8KOZsOvoHx8sU)
+* [Derek Banas](https://www.youtube.com/playlist?list=PLGLfVvz_LVvQu9IwUcpn8KOZsOvoHx8sU) (Raspberry Pi / ARM)
 
 
